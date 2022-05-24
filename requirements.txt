@@ -4,7 +4,7 @@ pandas==0.19.2
 sh==1.12.9
 scipy==0.18.1
 cycler==0.10.0
-tensorflow_gpu==1.15.4
+tensorflow_gpu==2.6.4
 matplotlib==2.0.0
 tqdm==4.11.2
 ipython==6.1.0
